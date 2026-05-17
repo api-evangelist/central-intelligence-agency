@@ -168,7 +168,7 @@ common:
     url: https://www.cia.gov/careers/
   - type: Contact
     url: https://www.cia.gov/contact-cia/
-  - type: Privacy Policy
+  - type: PrivacyPolicy
     url: https://www.cia.gov/privacy-statement/
   - type: NoFearAct
     url: https://www.cia.gov/no-fear-act/
