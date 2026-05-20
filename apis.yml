@@ -152,6 +152,8 @@ apis:
       digital innovation, and support functions, along with eligibility,
       hiring process, and student/internship program information.
 common:
+  - type: LinkedIn
+    url: https://www.linkedin.com/company/central-intelligence-agency
   - type: Website
     url: https://www.cia.gov/
   - type: About
