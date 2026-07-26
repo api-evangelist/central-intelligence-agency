@@ -11,10 +11,22 @@ tags:
   - Open Data
   - World Factbook
 type: Index
-image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/apis-json-logo.jpg
+accessModel:
+  pricing: freemium
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Freemium
+  confidence: medium
+  source:
+    - plans
+  generated: '2026-07-22'
+  method: derived
+image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/central-intelligence-agency.png
 access: 3rd-Party
 created: '2024-12-03'
-modified: '2026-04-23'
+modified: '2026-07-25'
 position: Consumer
 specificationVersion: '0.19'
 description: >-
@@ -31,25 +43,6 @@ description: >-
   discontinued on 4 February 2026, but a CC0-licensed JSON dataset of all 260
   Factbook entities is preserved on GitHub by the community.
 apis:
-  - aid: central-intelligence-agency:cia-website
-    name: CIA Public Website
-    tags:
-      - Federal Government
-      - Intelligence
-      - News
-    humanURL: https://www.cia.gov/
-    properties:
-      - url: https://www.cia.gov/
-        type: Website
-      - url: https://www.cia.gov/about/
-        type: About
-      - url: https://www.cia.gov/stories/
-        type: News
-    description: >-
-      The CIA's primary public-facing website at cia.gov hosts agency news
-      stories, leadership biographies, mission statements, careers and
-      recruiting information, and links to all other public CIA digital
-      properties.
   - aid: central-intelligence-agency:cia-foia-reading-room
     name: CIA FOIA Electronic Reading Room (CREST)
     tags:
@@ -134,23 +127,6 @@ apis:
       the Center for the Study of Intelligence (CSI). The site provides
       unclassified articles, book reviews, and historical analyses on the
       intelligence profession in PDF and HTML formats.
-  - aid: central-intelligence-agency:cia-careers
-    name: CIA Careers Portal
-    tags:
-      - Careers
-      - Hiring
-      - Jobs
-    humanURL: https://www.cia.gov/careers/
-    properties:
-      - url: https://www.cia.gov/careers/
-        type: Website
-      - url: https://www.cia.gov/careers/jobs/
-        type: Jobs
-    description: >-
-      The CIA Careers portal is the agency's public recruiting site, listing
-      open positions across analysis, operations, science and technology,
-      digital innovation, and support functions, along with eligibility,
-      hiring process, and student/internship program information.
 common:
   - type: DomainSecurity
     url: security/central-intelligence-agency-domain-security.yml

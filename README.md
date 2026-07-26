@@ -20,10 +20,6 @@ The Central Intelligence Agency (CIA) is the United States' civilian foreign int
 
 ## APIs
 
-### CIA Public Website
-The CIA's primary public-facing website at cia.gov hosts agency news stories, leadership biographies, mission statements, careers and recruiting information, and links to all other public CIA digital properties.
-
-**Human URL:** [https://www.cia.gov/](https://www.cia.gov/)
 
 #### Tags
 - Federal Government, Intelligence, News
@@ -83,10 +79,6 @@ Studies in Intelligence is the CIA's professional journal published by the Cente
 - [Website](https://www.cia.gov/resources/csi/studies-in-intelligence/)
 - [CSI](https://www.cia.gov/resources/csi/)
 
-### CIA Careers Portal
-The CIA Careers portal is the agency's public recruiting site, listing open positions across analysis, operations, science and technology, digital innovation, and support functions.
-
-**Human URL:** [https://www.cia.gov/careers/](https://www.cia.gov/careers/)
 
 #### Tags
 - Careers, Jobs, Hiring
