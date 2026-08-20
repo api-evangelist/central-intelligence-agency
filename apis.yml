@@ -3,6 +3,14 @@ url: >-
   https://raw.githubusercontent.com/api-evangelist/central-intelligence-agency/refs/heads/main/apis.yml
 name: Central Intelligence Agency
 tags:
+  - Federal-Government
+  - FOIA
+  - Government
+  - Intelligence
+  - National Security
+  - Open Data
+  - World Factbook
+tags_raw:
   - Federal Government
   - FOIA
   - Government
@@ -112,6 +120,11 @@ apis:
   - aid: central-intelligence-agency:cia-studies-in-intelligence
     name: Studies in Intelligence Journal
     tags:
+      - Analysis
+      - Intelligence
+      - journal
+      - Publications
+    tags_raw:
       - Analysis
       - Intelligence
       - Journal
