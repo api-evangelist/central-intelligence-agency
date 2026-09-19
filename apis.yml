@@ -116,6 +116,10 @@ apis:
     tags:
       - Artifacts
       - History
+      - Museums
+    tags_raw:
+      - Artifacts
+      - History
       - Museum
     humanURL: https://www.cia.gov/legacy/museum/
     properties:
@@ -133,7 +137,7 @@ apis:
     tags:
       - Analysis
       - Intelligence
-      - Journal
+      - Journals
       - Publications
     tags_raw:
       - Analysis
