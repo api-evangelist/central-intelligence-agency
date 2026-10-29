@@ -1,4 +1,4 @@
-# Central Intelligence Agency (central-intelligence-agency)
+# Central Intelligence Agency
 
 <!-- API-EVANGELIST-PROVENANCE:BEGIN -->
 > ### About this repository
@@ -66,107 +66,103 @@
 
 The Central Intelligence Agency (CIA) is the United States' civilian foreign intelligence service of the federal government, tasked with gathering, processing, and analyzing national security information from around the world. While the CIA does not maintain a formal public developer program, it publishes a small number of digital resources of interest to civic technologists and researchers, including the CIA.gov public website, the FOIA Electronic Reading Room (CREST) of declassified records, the World Factbook country profiles (open dataset, public domain), the CIA Museum digital collection, the Studies in Intelligence journal archive, and the agency's careers portal. Note that the World Factbook web product was discontinued on 4 February 2026, but a CC0-licensed JSON dataset of all 260 Factbook entities is preserved on GitHub by the community.
 
-**URL:** [Visit APIs.json URL](https://raw.githubusercontent.com/api-evangelist/central-intelligence-agency/refs/heads/main/apis.yml)
+**Areas:** Federal Government · FOIA · Government · Intelligence · National Security · Open Data · World Factbook
 
-## Scope
+## Central Intelligence Agency on APIs.io
 
-- **Type:** Index
-- **Position:** Consumer
-- **Access:** 3rd-Party
+Everything profiled for Central Intelligence Agency is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/central-intelligence-agency/](https://apis.io/providers/central-intelligence-agency/)** — or go straight to one of the APIs or properties below.
 
-## Tags
+### APIs (4)
 
-- Federal Government, Intelligence, FOIA, World Factbook, National Security, Open Data, Government
+- [CIA FOIA Electronic Reading Room (CREST)](https://apis.io/apis/central-intelligence-agency/cia-foia-reading-room/) — The CIA's FOIA Electronic Reading Room (CREST - CIA Records Search Tool) is a publicly searchable interface to declassified CIA records released under the…
+- [CIA World Factbook (Country Profiles)](https://apis.io/apis/central-intelligence-agency/cia-world-factbook/) — The CIA World Factbook is the long-running unclassified almanac of reference information on 260 world entities including all sovereign countries,…
+- [CIA Museum Digital Collection](https://apis.io/apis/central-intelligence-agency/cia-museum/) — The CIA Museum digital collection is the public-facing online catalog of artifacts, exhibits, and stories from the CIA Museum, including historical…
+- [Studies in Intelligence Journal](https://apis.io/apis/central-intelligence-agency/cia-studies-in-intelligence/) — Studies in Intelligence is the CIA's professional journal published by the Center for the Study of Intelligence (CSI). The site provides unclassified…
 
-## Timestamps
+### Published properties
 
-- **Created:** 2024-12-03
-- **Modified:** 2026-04-23
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
 
-## APIs
+#### Security (1)
 
+Authentication, trust centre, and vulnerability disclosure.
 
-#### Tags
-- Federal Government, Intelligence, News
+- [Central Intelligence Agency Domain Security](https://apis.io/security/central-intelligence-agency/central-intelligence-agency-domain-security/)
 
-#### Properties
-- [Website](https://www.cia.gov/)
-- [About](https://www.cia.gov/about/)
-- [News](https://www.cia.gov/stories/)
+#### Plans and pricing (1)
 
-### CIA FOIA Electronic Reading Room (CREST)
-The CIA's FOIA Electronic Reading Room (CREST - CIA Records Search Tool) is a publicly searchable interface to declassified CIA records released under the Freedom of Information Act. The site provides full-text search, document downloads, and curated topical collections suitable for researchers and historians.
+Published plans, tiers and prices.
 
-**Human URL:** [https://www.cia.gov/readingroom/](https://www.cia.gov/readingroom/)
+- [Central Intelligence Agency Plans Pricing](https://apis.io/plans/central-intelligence-agency/central-intelligence-agency-plans-pricing/)
 
-#### Tags
-- FOIA, Declassified, Records Search, Documents, Transparency
+#### Rate limits (1)
 
-#### Properties
-- [Website](https://www.cia.gov/readingroom/)
-- [Search](https://www.cia.gov/readingroom/search/site)
-- [Collections](https://www.cia.gov/readingroom/collections)
+Published request limits.
 
-### CIA World Factbook (Country Profiles)
-The CIA World Factbook is the long-running unclassified almanac of reference information on 260 world entities including all sovereign countries, dependencies, and oceans. The web product was discontinued 4 February 2026; the community-maintained `factbook.json` GitHub project preserves a CC0 / public-domain JSON dataset of all entities for programmatic access.
+- [Central Intelligence Agency Rate Limits](https://apis.io/rate-limits/central-intelligence-agency/central-intelligence-agency-rate-limits/)
 
-**Human URL:** [https://www.cia.gov/the-world-factbook/](https://www.cia.gov/the-world-factbook/)
+#### FinOps (1)
 
-#### Tags
-- World Factbook, Open Data, Country Profiles, Geography, Demographics, Reference
+What the API costs to run, by operation.
 
-#### Properties
-- [Website](https://www.cia.gov/the-world-factbook/)
-- [OpenData](https://github.com/factbook/factbook.json)
-- [GitHubRepository](https://github.com/factbook/factbook.json)
+- [Central Intelligence Agency Finops](https://apis.io/finops/central-intelligence-agency/central-intelligence-agency-finops/)
 
-### CIA Museum Digital Collection
-The CIA Museum digital collection is the public-facing online catalog of artifacts, exhibits, and stories from the CIA Museum, including historical espionage tools, declassified mission gear, and curated narratives about agency history.
+## Where to find this API
 
-**Human URL:** [https://www.cia.gov/legacy/museum/](https://www.cia.gov/legacy/museum/)
-
-#### Tags
-- Museum, Artifacts, History
-
-#### Properties
-- [Website](https://www.cia.gov/legacy/museum/)
-- [Catalog](https://www.cia.gov/legacy/museum/artifacts/)
-
-### Studies in Intelligence Journal
-Studies in Intelligence is the CIA's professional journal published by the Center for the Study of Intelligence (CSI), with unclassified articles, book reviews, and historical analyses on the intelligence profession.
-
-**Human URL:** [https://www.cia.gov/resources/csi/studies-in-intelligence/](https://www.cia.gov/resources/csi/studies-in-intelligence/)
-
-#### Tags
-- Journal, Intelligence, Publications, Analysis
-
-#### Properties
-- [Website](https://www.cia.gov/resources/csi/studies-in-intelligence/)
-- [CSI](https://www.cia.gov/resources/csi/)
-
-
-#### Tags
-- Careers, Jobs, Hiring
-
-#### Properties
-- [Website](https://www.cia.gov/careers/)
-- [Jobs](https://www.cia.gov/careers/jobs/)
-
-## Common Properties
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
 
 - [Website](https://www.cia.gov/)
-- [About](https://www.cia.gov/about/)
-- [News](https://www.cia.gov/stories/)
-- [FOIA](https://www.cia.gov/readingroom/)
-- [WorldFactbook](https://www.cia.gov/the-world-factbook/)
-- [Museum](https://www.cia.gov/legacy/museum/)
-- [Careers](https://www.cia.gov/careers/)
-- [Contact](https://www.cia.gov/contact-cia/)
-- [Privacy Policy](https://www.cia.gov/privacy-statement/)
-- [Tor](http://ciadotgov4sjwlzihbbgxnqg3xiyrg7so2r2o3lt5wz5ypk4sxyjstad.onion/)
+- [Privacy policy](https://www.cia.gov/privacy-statement/)
 
-## Maintainers
+## API Evangelist rating
 
-**FN:** Kin Lane
+**Kin Score 8.5** — minimal · rubric 0.24.0 · scored 2026-10-17
 
-**Email:** kin@apievangelist.com
+| Facet | Score |
+|---|---|
+| Discoverability | 63.4 |
+| Contract quality | 0.0 |
+| Contract governance | 0.0 |
+| Operational transparency | 13.2 |
+| Developer ergonomics | 0.0 |
+| Access clarity | 7.9 |
+
+**Agent readiness 0.6** — human-only
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | — |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | — |
+| Auth Clarity | — |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | derived (partial credit) |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+
+**Regulatory alignment 5.9** — Government & Public Sector
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/central-intelligence-agency/](https://apis.io/providers/central-intelligence-agency/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Central Intelligence Agency: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/central-intelligence-agency/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
